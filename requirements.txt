@@ -1,0 +1,10 @@
+streamlit
+cvzone
+opencv-python
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+mediapipe
+tensorflow
